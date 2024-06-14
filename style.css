@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+}
+
+h2{
+    font-size: 3em;
+}
+#myButton{
+    font-size:3em;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: hsla(0, 73%, 50%, 0.699);
+}
+
+#myButton:hover{
+    background-color: hwb(0 21% 17%);
+}
+
+#myLabel{
+    font-size: 3em;
+}
+
+    
